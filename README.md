@@ -2,7 +2,7 @@
 - 👋 Olá meu nome é @yuriale
 - 👀 Meu email de contato é nascimento.yuri.7@escola.pr.gov.br
 - 🌱 Estou interessado em aprender novas linguagens
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Estou aprendendo a programar novos aplicativos
 - 📫 How to reach me ...
 
 <!---
